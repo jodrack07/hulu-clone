@@ -1,0 +1,1 @@
+'w-full h-full col-span-2 md:col-span-3 row-span-2
