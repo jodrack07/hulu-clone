@@ -8,7 +8,7 @@
 - TMDB (an API to fetch movies data)
 
 ## Live Demo
-> [hulu-clone-v1]()
+> [hulu-clone-v1](https://hulu-clone-d4skld7yu-jodrack07.vercel.app/)
 
 ## Author
 
