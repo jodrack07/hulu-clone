@@ -40,7 +40,7 @@ export default function Header() {
   ];
 
   return (
-    <div className='relative flex flex-col sm:flex-row justify-between items-center m-[10px] h-auto'>
+    <div className='flex flex-col sm:flex-row justify-between items-center m-[10px] h-auto'>
       <div className='flex flex-grow justify-evenly max-w-2xl'>
         {headerItems.map((headerItem) => (
           <HeaderItem
