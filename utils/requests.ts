@@ -1,6 +1,8 @@
+import type { IRequest } from "../types/request";
+
 const API_KEY = process.env.API_KEY;
 
-const requests = {
+const requests: IRequest = {
     fetchTreding: {
         title: 'trending',
         url: `/trending/all/week?api_key=${API_KEY}&language=en-US`
