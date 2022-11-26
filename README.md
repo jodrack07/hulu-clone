@@ -3,9 +3,9 @@
 > Design a Hulu clone that fetches movies data from the TMDB and showcase them
 
 ## Built with
-> Nextjs
-> Tailwindcss
-> TMDB (an API to fetch movies data)
+- Nextjs
+- Tailwindcss
+- TMDB (an API to fetch movies data)
 
 ## Live Demo
 > [hulu-clone-v1]()
